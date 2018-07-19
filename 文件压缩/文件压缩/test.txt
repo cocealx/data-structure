@@ -1,0 +1,3 @@
+gdbµ÷ÊÔ1£©Æô¶¯gdb£ºgdb ¿ÉÖ´ÐÐ³ÌÐòÃû2£©²é¿´´úÂë£º
+ ll ²é¿´µ±Ç°ÎÄ¼þl Ä¿±êÎÄ¼þ.c£ºÐÐºÅ  -- Ö±½ÓÏÔÊ¾Ä¿±êÎÄ¼þµÄÄ¿±êÐÐÿÿÿÿgdbµ÷ÊÔ1£©Æô¶¯gdb£ºgdb ¿ÉÖ´ÐÐ³ÌÐòÃû2£©²é¿´´úÂë£º
+ ll ²é¿´µ±Ç°ÎÄ¼þl Ä¿±êÎÄ¼þ.c£ºÐÐºÅ  -- Ö±½ÓÏÔÊ¾Ä¿±êÎÄ¼þµÄÄ¿±êÐÐ
